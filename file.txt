@@ -1,2 +1,4 @@
 Initial content
+Main change
 Feature work
+Release v1.0
